@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+nbody
+*.o
+
+# Generated simulation output
+traiettorie_tempo.csv
