@@ -109,6 +109,12 @@ The script:
 - prints the involved pair and event time,
 - highlights the minimum-distance segment on the plot.
 
+## Orbit Plot (Exercise 1)
+
+Trajectory plot for the first exercise (Planar Pleiades):
+
+![Planar Pleiades Orbits](figures/orbits_ex1.png)
+
 ## Numerical Results
 
 From the simulation and trajectory analysis:
